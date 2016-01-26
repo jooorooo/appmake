@@ -1,5 +1,5 @@
 {
-    "name": "laravel/appmake",
+    "name": "simexis/appmake",
     "description": "Laravel application installer.",
     "keywords": ["laravel"],
     "license": "MIT",
